@@ -1,4 +1,4 @@
-## --- Prj 1 : 수요예측 (Demand Forecast)
+## --- prj 1 : 수요예측 (Demand Forecast)
 #### 1) 아래 모형을 이용하여 예측
 ![default](https://user-images.githubusercontent.com/41772329/53581168-6c679c80-3bc0-11e9-8b0c-484e96436f75.JPG)
 
