@@ -17,4 +17,4 @@
 2) stepwise selection / best-subset selection / backward-elimination 등으로 선택된 모형들의 AIC를 비교
 
 3) 위에서 구한 GLM/ GAM/ CoxPHM 확률 및 점수값의 크기순으로 전체 고객을 10개의 구간으로 나눈 후 test data를 이용하여 각 구간별 실제 해지고객의 백분
-율 및 Lift 값을 구하여 세 방법을 비교
+율 및 [Lift 값](https://github.com/sohyuniii/Theoretical-Statistics/blob/master/prj7/3-1%20Results.pdf)을 구하여 세 방법을 비교
